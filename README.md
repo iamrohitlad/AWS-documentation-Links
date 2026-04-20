@@ -5,3 +5,4 @@ AWS Simple Storage Device                           : https://docs.aws.amazon.co
 AWS Lambda Documentation                            : https://docs.aws.amazon.com/lambda/
 AWS S3 Documentation                                : https://docs.aws.amazon.com/s3/
 AWS VPC                                             : https://docs.aws.amazon.com/vpc/
+AWS IAM                                             : https://docs.aws.amazon.com/iam/
