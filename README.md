@@ -6,3 +6,4 @@ AWS Lambda Documentation                            : https://docs.aws.amazon.co
 AWS S3 Documentation                                : https://docs.aws.amazon.com/s3/
 AWS VPC                                             : https://docs.aws.amazon.com/vpc/
 AWS IAM                                             : https://docs.aws.amazon.com/iam/
+AWS Command Line Interface                          : https://docs.aws.amazon.com/cli/
