@@ -7,3 +7,4 @@ AWS S3 Documentation                                : https://docs.aws.amazon.co
 AWS VPC                                             : https://docs.aws.amazon.com/vpc/
 AWS IAM                                             : https://docs.aws.amazon.com/iam/
 AWS Command Line Interface                          : https://docs.aws.amazon.com/cli/
+AWS Elastic Compute Cloud Doc                       : https://docs.aws.amazon.com/ec2/
