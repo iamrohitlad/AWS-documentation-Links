@@ -10,3 +10,4 @@ AWS Command Line Interface                          : https://docs.aws.amazon.co
 AWS Elastic Compute Cloud Doc                       : https://docs.aws.amazon.com/ec2/
 AWS Service Endpoints                               : https://docs.aws.amazon.com/general/latest/gr/rande.html
 AWS EC2 basic concepts                              : https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/concepts.html
+AWS Bedrock Documentation                           : https://docs.aws.amazon.com/bedrock/
