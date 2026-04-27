@@ -12,3 +12,4 @@ AWS Service Endpoints                               : https://docs.aws.amazon.co
 AWS EC2 basic concepts                              : https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/concepts.html
 AWS Bedrock Documentation                           : https://docs.aws.amazon.com/bedrock/
 AWS Key Management                                  : https://docs.aws.amazon.com/kms/
+AWS Dynamo DB                                       : https://docs.aws.amazon.com/dynamodb/?icmpid=docs_homepage_featuredsvcs
