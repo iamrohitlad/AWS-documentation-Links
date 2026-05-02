@@ -16,3 +16,4 @@ AWS Dynamo DB                                       : https://docs.aws.amazon.co
 AWS IAM User Guide                                  : https://docs.aws.amazon.com/iam/
 AWS Service Catlog Doc                              : https://docs.aws.amazon.com/servicecatalog/
 AWS Security                                        : https://docs.aws.amazon.com/security/
+AWS Sign In                                         : https://docs.aws.amazon.com/signin/
