@@ -17,3 +17,4 @@ AWS IAM User Guide                                  : https://docs.aws.amazon.co
 AWS Service Catlog Doc                              : https://docs.aws.amazon.com/servicecatalog/
 AWS Security                                        : https://docs.aws.amazon.com/security/
 AWS Sign In                                         : https://docs.aws.amazon.com/signin/
+AWS Code Pipeline                                   : https://docs.aws.amazon.com/codepipeline/
