@@ -18,3 +18,4 @@ AWS Service Catlog Doc                              : https://docs.aws.amazon.co
 AWS Security                                        : https://docs.aws.amazon.com/security/
 AWS Sign In                                         : https://docs.aws.amazon.com/signin/
 AWS Code Pipeline                                   : https://docs.aws.amazon.com/codepipeline/
+AWS Control Tower                                   : https://docs.aws.amazon.com/controltower/
