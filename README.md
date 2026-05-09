@@ -23,3 +23,4 @@ AWS Security Hub                                    : https://docs.aws.amazon.co
 AWS Cloudfront                                      : https://docs.aws.amazon.com/cloudfront/?icmpid=docs_homepage_networking
 AWS Linux                                           : https://docs.aws.amazon.com/linux/?icmpid=docs_homepage_compute
 AWS RDS                                             : https://docs.aws.amazon.com/rds/?icmpid=docs_homepage_featuredsvcs
+AWS SageMaker                                       : https://docs.aws.amazon.com/next-generation-sagemaker/latest/userguide/what-is-sagemaker.html
