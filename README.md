@@ -18,6 +18,7 @@ AWS Service Catlog Doc                              : https://docs.aws.amazon.co
 AWS Security                                        : https://docs.aws.amazon.com/security/
 AWS Sign In                                         : https://docs.aws.amazon.com/signin/
 AWS Code Pipeline                                   : https://docs.aws.amazon.com/codepipeline/
+AWS Compute Service                                 : https://docs.aws.amazon.com/compute-on-aws-how-to-choose/
 AWS Control Tower                                   : https://docs.aws.amazon.com/controltower/
 AWS Security Hub                                    : https://docs.aws.amazon.com/securityhub/
 AWS Cloudfront                                      : https://docs.aws.amazon.com/cloudfront/?icmpid=docs_homepage_networking
