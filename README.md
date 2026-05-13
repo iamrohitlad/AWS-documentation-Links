@@ -26,3 +26,4 @@ AWS Linux                                           : https://docs.aws.amazon.co
 AWS RDS                                             : https://docs.aws.amazon.com/rds/?icmpid=docs_homepage_featuredsvcs
 AWS SageMaker                                       : https://docs.aws.amazon.com/next-generation-sagemaker/latest/userguide/what-is-sagemaker.html
 AWS ECS                                             : https://docs.aws.amazon.com/ecs/?icmpid=docs_homepage_containers
+AWS Billing & Cost Management                       : https://docs.aws.amazon.com/account-billing/?icmpid=docs_homepage_cloudfin
