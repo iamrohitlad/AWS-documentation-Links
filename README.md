@@ -21,6 +21,7 @@ AWS Code Pipeline                                   : https://docs.aws.amazon.co
 AWS Compute Service                                 : https://docs.aws.amazon.com/compute-on-aws-how-to-choose/
 AWS Control Tower                                   : https://docs.aws.amazon.com/controltower/
 AWS Security Hub                                    : https://docs.aws.amazon.com/securityhub/
+AWS Elasticache                                     : https://docs.aws.amazon.com/elasticache/?icmpid=docs_homepage_databases
 AWS Cloudfront                                      : https://docs.aws.amazon.com/cloudfront/?icmpid=docs_homepage_networking
 AWS Linux                                           : https://docs.aws.amazon.com/linux/?icmpid=docs_homepage_compute
 AWS RDS                                             : https://docs.aws.amazon.com/rds/?icmpid=docs_homepage_featuredsvcs
