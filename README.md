@@ -29,3 +29,4 @@ AWS SageMaker                                       : https://docs.aws.amazon.co
 AWS ECS                                             : https://docs.aws.amazon.com/ecs/?icmpid=docs_homepage_containers
 AWS Billing & Cost Management                       : https://docs.aws.amazon.com/account-billing/?icmpid=docs_homepage_cloudfin
 Redhat Openshift Service on AWS                     : https://docs.aws.amazon.com/rosa/?icmpid=docs_homepage_containers
+AWS Pricing calculator                              : https://docs.aws.amazon.com/pricing-calculator/?icmpid=docs_homepage_cloudfin
