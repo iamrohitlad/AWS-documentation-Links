@@ -32,3 +32,4 @@ Redhat Openshift Service on AWS                     : https://docs.aws.amazon.co
 AWS Pricing calculator                              : https://docs.aws.amazon.com/pricing-calculator/?icmpid=docs_homepage_cloudfin
 Choosing an Amazon Management Directory             : https://docs.aws.amazon.com/decision-guides/latest/cost-management-on-aws-how-to-choose/cost-management-on-aws-                                                       how-to-choose.html?icmpid=docs_homepage_cloudfin
 Amazon q ( AI- powered Amazon Assistant )           : https://docs.aws.amazon.com/amazonq/?icmpid=docs_homepage_console
+Amazon Linux                                        : https://docs.aws.amazon.com/linux/?icmpid=docs_homepage_compute
