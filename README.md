@@ -34,3 +34,4 @@ Choosing an Amazon Management Directory             : https://docs.aws.amazon.co
 Amazon q ( AI- powered Amazon Assistant )           : https://docs.aws.amazon.com/amazonq/?icmpid=docs_homepage_console
 Amazon Linux                                        : https://docs.aws.amazon.com/linux/?icmpid=docs_homepage_compute
 AWS EC2 Image Builder                               : https://docs.aws.amazon.com/imagebuilder/?icmpid=docs_homepage_compute
+AWS API Gateway                                     : https://docs.aws.amazon.com/apigateway/?icmpid=docs_homepage_networking
