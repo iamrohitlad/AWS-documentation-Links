@@ -36,3 +36,4 @@ Amazon Linux                                        : https://docs.aws.amazon.co
 AWS EC2 Image Builder                               : https://docs.aws.amazon.com/imagebuilder/?icmpid=docs_homepage_compute
 AWS API Gateway                                     : https://docs.aws.amazon.com/apigateway/?icmpid=docs_homepage_networking
 AWS Aurora DSQL                                     : https://docs.aws.amazon.com/aurora-dsql/?icmpid=docs_homepage_databases
+AWS Cloud Directory                                 : https://docs.aws.amazon.com/clouddirectory/?icmpid=docs_homepage_security
