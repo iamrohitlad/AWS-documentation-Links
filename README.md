@@ -38,3 +38,4 @@ AWS API Gateway                                     : https://docs.aws.amazon.co
 AWS Aurora DSQL                                     : https://docs.aws.amazon.com/aurora-dsql/?icmpid=docs_homepage_databases
 AWS Cloud Directory                                 : https://docs.aws.amazon.com/clouddirectory/?icmpid=docs_homepage_security
 AWS Cloudwatch                                      : https://docs.aws.amazon.com/cloudwatch/?icmpid=docs_homepage_mgmtgov
+AWS CodeGuru                                        : https://docs.aws.amazon.com/codeguru/?icmpid=docs_homepage_ml
