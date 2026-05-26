@@ -40,3 +40,4 @@ AWS Cloud Directory                                 : https://docs.aws.amazon.co
 AWS Cloudwatch                                      : https://docs.aws.amazon.com/cloudwatch/?icmpid=docs_homepage_mgmtgov
 AWS CodeGuru                                        : https://docs.aws.amazon.com/codeguru/?icmpid=docs_homepage_ml
 AWS CodeCatalyst                                    : https://docs.aws.amazon.com/codecatalyst/?icmpid=docs_homepage_devtools
+AWS Serverless APP model                            : https://docs.aws.amazon.com/serverless-application-model/?icmpid=docs_homepage_compute
