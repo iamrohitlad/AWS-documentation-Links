@@ -41,3 +41,5 @@ AWS Cloudwatch                                      : https://docs.aws.amazon.co
 AWS CodeGuru                                        : https://docs.aws.amazon.com/codeguru/?icmpid=docs_homepage_ml
 AWS CodeCatalyst                                    : https://docs.aws.amazon.com/codecatalyst/?icmpid=docs_homepage_devtools
 AWS Serverless APP model                            : https://docs.aws.amazon.com/serverless-application-model/?icmpid=docs_homepage_compute
+Choosing a AWS Container Service                    : https://docs.aws.amazon.com/decision-guides/latest/containers-on-aws-how-to-choose/choosing-aws-container-service.html?icmpid=docs_homepage_containers
+
