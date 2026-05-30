@@ -44,3 +44,4 @@ AWS Serverless APP model                            : https://docs.aws.amazon.co
 Choosing a AWS Container Service                    : https://docs.aws.amazon.com/decision-guides/latest/containers-on-aws-how-to-choose/choosing-aws-container-service.html?icmpid=docs_homepage_containers
 AWS App container                                   : https://docs.aws.amazon.com/app2container/?icmpid=docs_homepage_containers
 AWS Elastic Container Registry                      : https://docs.aws.amazon.com/ecr/?icmpid=docs_homepage_containers
+AWS Elastic Kubernetes Service                      : https://docs.aws.amazon.com/eks/?icmpid=docs_homepage_containers
