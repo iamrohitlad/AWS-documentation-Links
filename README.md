@@ -45,3 +45,4 @@ Choosing a AWS Container Service                    : https://docs.aws.amazon.co
 AWS App container                                   : https://docs.aws.amazon.com/app2container/?icmpid=docs_homepage_containers
 AWS Elastic Container Registry                      : https://docs.aws.amazon.com/ecr/?icmpid=docs_homepage_containers
 AWS Elastic Kubernetes Service                      : https://docs.aws.amazon.com/eks/?icmpid=docs_homepage_containers
+AWS cryptography Service                            : https://docs.aws.amazon.com/decision-guides/latest/cryptography-on-aws-how-to-choose/guide.html?icmpid=docs_homepage_decision_guides
