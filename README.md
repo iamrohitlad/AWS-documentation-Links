@@ -48,3 +48,4 @@ AWS Elastic Container Registry                      : https://docs.aws.amazon.co
 AWS Elastic Kubernetes Service                      : https://docs.aws.amazon.com/eks/?icmpid=docs_homepage_containers
 AWS cryptography Service                            : https://docs.aws.amazon.com/decision-guides/latest/cryptography-on-aws-how-to-choose/guide.html?icmpid=docs_homepage_decision_guides
 AWS Lightsail                                       : https://docs.aws.amazon.com/lightsail/?icmpid=docs_homepage_compute
+AWS Elasticache                                     : https://docs.aws.amazon.com/elasticache/?icmpid=docs_homepage_databases
