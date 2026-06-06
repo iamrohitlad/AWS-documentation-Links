@@ -49,3 +49,4 @@ AWS Elastic Kubernetes Service                      : https://docs.aws.amazon.co
 AWS cryptography Service                            : https://docs.aws.amazon.com/decision-guides/latest/cryptography-on-aws-how-to-choose/guide.html?icmpid=docs_homepage_decision_guides
 AWS Lightsail                                       : https://docs.aws.amazon.com/lightsail/?icmpid=docs_homepage_compute
 AWS Elasticache                                     : https://docs.aws.amazon.com/elasticache/?icmpid=docs_homepage_databases
+AWS Workspace                                       : https://docs.aws.amazon.com/workspaces/?icmpid=docs_homepage_euc
