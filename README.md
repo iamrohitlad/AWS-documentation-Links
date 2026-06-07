@@ -50,3 +50,4 @@ AWS cryptography Service                            : https://docs.aws.amazon.co
 AWS Lightsail                                       : https://docs.aws.amazon.com/lightsail/?icmpid=docs_homepage_compute
 AWS Elasticache                                     : https://docs.aws.amazon.com/elasticache/?icmpid=docs_homepage_databases
 AWS Workspace                                       : https://docs.aws.amazon.com/workspaces/?icmpid=docs_homepage_euc
+AWS IQ                                              : https://docs.aws.amazon.com/aws-iq/?icmpid=docs_homepage_custenable
