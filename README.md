@@ -53,3 +53,5 @@ AWS Workspace                                       : https://docs.aws.amazon.co
 AWS IQ                                              : https://docs.aws.amazon.com/aws-iq/?icmpid=docs_homepage_custenable
 AWS Incident & Response                             : https://docs.aws.amazon.com/aws-support/?icmpid=docs_homepage_custenable
 AWS Systems Manager                                 : https://docs.aws.amazon.com/systems-manager/?icmpid=docs_homepage_mgmtgov
+Developer TOOLS :
+AWS Cloud Control API                               : https://docs.aws.amazon.com/cloudcontrolapi/?icmpid=docs_homepage_devtools
