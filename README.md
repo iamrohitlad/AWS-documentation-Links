@@ -58,4 +58,5 @@ AWS Cloud Control API                               : https://docs.aws.amazon.co
 AWS Cloud 9                                         : https://docs.aws.amazon.com/cloud9/?icmpid=docs_homepage_devtools
 AWS CloudShell                                      : https://docs.aws.amazon.com/cloudshell/?icmpid=docs_homepage_devtools
 AWS CodeArtifact                                    : https://docs.aws.amazon.com/codeartifact/?icmpid=docs_homepage_devtools
-AWS CodeBuild                                       : https://docs.aws.amazon.com/codebuild/?icmpid=docs_homepage_devtools
+AWS CodeBuild                                       : https://docs.aws.amazon.com/codebuild/?icmpid=docs_homepage_devtools\
+AWS CodeCatalyst                                    : https://docs.aws.amazon.com/codecatalyst/?icmpid=docs_homepage_devtools
