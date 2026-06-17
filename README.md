@@ -61,3 +61,4 @@ AWS CodeArtifact                                    : https://docs.aws.amazon.co
 AWS CodeBuild                                       : https://docs.aws.amazon.com/codebuild/?icmpid=docs_homepage_devtools\
 AWS CodeCatalyst                                    : https://docs.aws.amazon.com/codecatalyst/?icmpid=docs_homepage_devtools
 AWS CodeDeploy                                      : https://docs.aws.amazon.com/codedeploy/?icmpid=docs_homepage_devtools
+AWS Codepipeline                                    : https://docs.aws.amazon.com/codepipeline/?icmpid=docs_homepage_devtools
