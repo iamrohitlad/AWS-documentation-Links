@@ -64,3 +64,4 @@ AWS CodeDeploy                                      : https://docs.aws.amazon.co
 AWS Codepipeline                                    : https://docs.aws.amazon.com/codepipeline/?icmpid=docs_homepage_devtools
 AWS Fault Injection Service                         : https://docs.aws.amazon.com/fis/?icmpid=docs_homepage_devtools
 AWS Infrstructure Composer                          : https://docs.aws.amazon.com/infrastructure-composer/?icmpid=docs_homepage_devtools
+AWS Kiro ( AI Development Platform )                : https://kiro.dev/docs/?icmpid=docs_homepage_devtools
