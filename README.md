@@ -68,3 +68,4 @@ AWS Infrstructure Composer                          : https://docs.aws.amazon.co
 AWS Kiro ( AI Development Platform )                : https://kiro.dev/docs/?icmpid=docs_homepage_devtools
 AWS Agent Toolkit                                   : https://docs.aws.amazon.com/agent-toolkit/?icmpid=docs_homepage_devtools
 AWS App Studio                                      : https://docs.aws.amazon.com/appstudio/?icmpid=docs_homepage_devtools
+AWS Workspaces                                      : https://docs.aws.amazon.com/workspaces/?icmpid=docs_homepage_euc
