@@ -69,3 +69,4 @@ AWS Kiro ( AI Development Platform )                : https://kiro.dev/docs/?icm
 AWS Agent Toolkit                                   : https://docs.aws.amazon.com/agent-toolkit/?icmpid=docs_homepage_devtools
 AWS App Studio                                      : https://docs.aws.amazon.com/appstudio/?icmpid=docs_homepage_devtools
 AWS Workspaces                                      : https://docs.aws.amazon.com/workspaces/?icmpid=docs_homepage_euc
+AWS Workspaces APP                                  : https://docs.aws.amazon.com/appstream2/?icmpid=docs_homepage_euc
