@@ -70,3 +70,4 @@ AWS Agent Toolkit                                   : https://docs.aws.amazon.co
 AWS App Studio                                      : https://docs.aws.amazon.com/appstudio/?icmpid=docs_homepage_devtools
 AWS Workspaces                                      : https://docs.aws.amazon.com/workspaces/?icmpid=docs_homepage_euc
 AWS Workspaces APP                                  : https://docs.aws.amazon.com/appstream2/?icmpid=docs_homepage_euc
+AWS DCV ( graphic-intensive 3D applications )       : https://docs.aws.amazon.com/dcv/?icmpid=docs_homepage_euc
