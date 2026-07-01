@@ -72,3 +72,4 @@ AWS Workspaces                                      : https://docs.aws.amazon.co
 AWS Workspaces APP                                  : https://docs.aws.amazon.com/appstream2/?icmpid=docs_homepage_euc
 AWS DCV ( graphic-intensive 3D applications )       : https://docs.aws.amazon.com/dcv/?icmpid=docs_homepage_euc
 AWS secure browser                                  : https://docs.aws.amazon.com/workspaces-web/?icmpid=docs_homepage_euc
+AWS FRONTEND Web & Mobile Services                  : https://docs.aws.amazon.com/decision-guides/latest/front-end-on-aws-how-to-choose/top.html
